@@ -1,0 +1,9 @@
+BLUE    GREEN
+7
+RECTANGLE    1    267    230    508    359    BLUE    NO_FILL
+SQUARE    3    752    482    BLUE    NO_FILL
+CIRCLE    4    155    455    114	BLUE    NO_FILL
+HEXAGON    4    661    177    BLUE    NO_FILL
+TRIANGLE    5    893    341    893    341    988    370    BLUE    NO_FILL
+SQUARE    6    209    28    BLUE    NO_FILL
+TRIANGLE    7    822    153    946    179    900    230    BLUE    NO_FILL
